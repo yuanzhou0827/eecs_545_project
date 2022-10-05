@@ -1,0 +1,11 @@
+0,Rigid-Body
+1,Medium Difficulty
+2,Difficult
+EI,Enzyme-Inhibitor       
+ES,Enzyme-Substrate       
+ER,Enzyme complex with a regulatory or accessory chain        
+AA,Antibody-Antigen       
+AS,Antigen-Single domain Antibody       
+OG,Others (G-protein containing)
+OR,Others (Receptor containing)
+OX,Others (miscellaneous)
